@@ -32,11 +32,16 @@
 
 ## Input:
 
+<img width="1042" height="579" alt="image" src="https://github.com/user-attachments/assets/0ac25f97-3176-4c66-ad27-cff23cf019d9" />
+
+
 ### Output:
 
+<img width="1014" height="536" alt="image" src="https://github.com/user-attachments/assets/020d015c-1f25-4fd1-9a8c-54aba625696b" />
 
-### Name:
-### Register Number:
+
+### Name: HARSHA NIVETHA
+### Register Number: 212225230097
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
